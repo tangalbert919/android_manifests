@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/samsung/gta2swifi" name="tangalbert919/android_device_samsung_gta2swifi" remote="github" />
+  <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" remote="github" />
+  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" />
+  <project path="kernel/samsung/msm8917" name="tangalbert919/android_kernel_samsung_msm8917" remote="github" />
+</manifest>
+
